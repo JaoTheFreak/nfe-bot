@@ -1,0 +1,14 @@
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent.deps.json
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent.runtimeconfig.json
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent.runtimeconfig.dev.json
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent.dll
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Martins.BotNfe.Agent.pdb
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.csprojAssemblyReference.cache
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.AssemblyInfoInputs.cache
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.AssemblyInfo.cs
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.dll
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.pdb
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/bin/Debug/netcoreapp3.1/WebDriver.dll
+/home/joaomartins/Documents/Projects/repo/nfe-bot/Martins.BotNfe.Agent/obj/Debug/netcoreapp3.1/Martins.BotNfe.Agent.csproj.CopyComplete
